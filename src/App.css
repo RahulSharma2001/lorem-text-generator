@@ -1,0 +1,40 @@
+.App {
+    text-align: center;
+
+    padding: 30px;
+}
+
+h1 {
+    color: #94360B;
+}
+
+input,
+button {
+    width: 50px;
+    font-size: 1rem;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+button {
+    width: auto;
+    margin-left: 5px;
+    background-color: #F5873D;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+p {
+    color: #99434C;
+}
+
+.data {
+    max-width: 80%;
+    margin: auto;
+}
